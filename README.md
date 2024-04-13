@@ -14,7 +14,7 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
 </p>
 
-<hr>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
@@ -43,7 +43,7 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
   <a href="https://netbeans.apache.org/front/main/index.html"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="Apache Netbeans"></a>
 </p>
 
-<hr>
+<br>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laredo02&" alt="laredo02" />
