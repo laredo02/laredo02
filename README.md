@@ -1,3 +1,25 @@
+
+# 👋 Hi there, I'm Miguel Laredo 🏊 🚴 🏃
+
+<p align="center">
+  <img src="https://i.imgur.com/Ao2P8iG.png" alt="C++">
+  <img src="https://i.imgur.com/zINUxVf.png" alt="C">
+  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" alt="Python">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+</p>
+
+Computer Engineering student at Universidad Politécnica de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science: compilers, computer graphics, operating systems, generative deep learning, and quantum computing. My technical expertise is broad, spanning several programming languages and technologies such as C/C++, Python, Java, x86 Assembly, Cuda, Matlab, and WxMaxima.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL">
+  <!-- Add other badges as needed -->
+</p>
+
+
+
 # 👋 Hi there, I'm Miguel Laredo 🏊 🚴 🏃
 
 Computer Engineering student at Universidad Politécnica de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science: compilers, computer graphics, operating systems, generative deep learning, and quantum computing. My technical expertise is broad, spanning several programming languages and technologies such as C/C++, Python, Java, x86 Assembly, Cuda, Matlab, and WxMaxima.
