@@ -29,6 +29,7 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
 
 <br>
 
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -57,6 +58,8 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
 </p>
 
 <br>
+
+-->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laredo02&" alt="laredo02" />
