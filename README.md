@@ -21,10 +21,10 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
   <img alt="Git" width=200 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=git&logoColor=%23F05032&color=rgba(0%2C%200%2C%200%2C%200)">
   -->
 
-  <img width="90" height="auto" src="https://i.imgur.com/Ao2P8iG.png" alt="C++">
-  <img width="90" height="auto" src="https://i.imgur.com/zINUxVf.png" alt="C">
-  <img width="100" height="auto" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" alt="Python">
-  <img width="100" height="auto" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+  <a href="https://isocpp.org/"> <img width="90" height="auto" src="https://i.imgur.com/Ao2P8iG.png" alt="C++"> </a>
+  <a href="https://www.iso.org/standard/74528.html"> <img width="90" height="auto" src="https://i.imgur.com/zINUxVf.png" alt="C">
+  <a href="https://www.python.org/"> <img width="100" height="auto" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" alt="Python">
+  <a href="https://git-scm.com/"> <img width="100" height="auto" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
 </p>
 
 <br>
