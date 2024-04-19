@@ -8,13 +8,15 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnWJMovZGvyzk03PimzCaICA3g1nkbQMmuPVZ1cXcDO-qQur2919Qowg_4UZeSj-GJk7zly9G6ub-dpXM52D8ZyxALBTvPyNS-1qePaNjackCtBSLnoDVt7QtxTD6cBE09DoiiU023QD_rfwLd52Nqq6rPqC7qgJQZLreU85eGXE-F2J9qbSXFKnDB0e8/w1684-h1069-p-k-no-nu/1710450863143.jpeg">
 </p>
 
+<hr>
+
 <h1 align="center">👋 Hi there, I'm Miguel Laredo 🏊 🚴 🏃</h1>
 
 <div align="justify">
 Computer Engineering student at Universidad Politécnica de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science, including: compilers, computer graphics, operating systems, generative deep learning, and quantum computing. My technical expertise is broad, spanning several programming languages and technologies such as C/C++, Python, Java, x86 Assembly, Cuda, Matlab, and WxMaxima.
 </div>
 
-<br>
+<hr>
 
 <p align="center">
   <a href="https://isocpp.org/"><img alt="C++" width=150 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=cplusplus&logoColor=%2300599C&color=rgba(0%2C%200%2C%200%2C%200)"></a>
@@ -29,7 +31,7 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
   -->
 </p>
 
-<br>
+<hr>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
@@ -58,8 +60,13 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
   <a href="https://netbeans.apache.org/front/main/index.html"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="Apache Netbeans"></a>
 </p>
 
-<br>
+<hr>
 
 <p align="center">
    <img src="https://streak-stats.demolab.com?user=laredo02&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
+
+<hr>
+
+
+
