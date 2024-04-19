@@ -57,8 +57,6 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
 
 <br>
 
--->
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laredo02&" alt="laredo02" />
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laredo02&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a> 
 </p>
