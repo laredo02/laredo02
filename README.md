@@ -34,6 +34,12 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
 <hr>
 
 <p align="center">
+   <img src="https://streak-stats.demolab.com?user=laredo02&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
+</p>
+
+<hr>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
   <!--<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">-->
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
@@ -58,12 +64,6 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
   <!--<a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="Emacs"></a>-->
   <!--<a href="https://alacritty.org/"><img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="Alacritty"></a>-->
   <a href="https://netbeans.apache.org/front/main/index.html"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="Apache Netbeans"></a>
-</p>
-
-<hr>
-
-<p align="center">
-   <img src="https://streak-stats.demolab.com?user=laredo02&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
 
 <hr>
