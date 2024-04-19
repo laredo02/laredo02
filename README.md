@@ -4,13 +4,21 @@ https://shields.io/badges
 https://simpleicons.org/
 https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 -->
+
+
+<h1 align="center">👋 Hi there, I'm Miguel Laredo 🏊 🚴 🏃</h1>
+
+<!--
+<hr>
+-->
+
 <p align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnWJMovZGvyzk03PimzCaICA3g1nkbQMmuPVZ1cXcDO-qQur2919Qowg_4UZeSj-GJk7zly9G6ub-dpXM52D8ZyxALBTvPyNS-1qePaNjackCtBSLnoDVt7QtxTD6cBE09DoiiU023QD_rfwLd52Nqq6rPqC7qgJQZLreU85eGXE-F2J9qbSXFKnDB0e8/w1684-h1069-p-k-no-nu/1710450863143.jpeg">
 </p>
 
+<!--
 <hr>
-
-<h1 align="center">👋 Hi there, I'm Miguel Laredo 🏊 🚴 🏃</h1>
+-->
 
 <div align="justify">
 Computer Engineering student at Universidad Politécnica de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science, including: compilers, computer graphics, operating systems, generative deep learning, and quantum computing. My technical expertise is broad, spanning several programming languages and technologies such as C/C++, Python, Java, x86 Assembly, Cuda, Matlab, and WxMaxima.
