@@ -21,7 +21,7 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 -->
 
 <div align="justify">
-Computer Engineering student at Universidad Politécnica de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science, including: compilers, computer graphics, operating systems, generative deep learning, and quantum computing. My technical expertise is broad, spanning several programming languages and technologies such as C/C++, Python, Java, x86 Assembly, Cuda, Matlab, and WxMaxima.
+Computer Engineering student at Universidad Politécnica de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science, including: compilers, computer graphics, operating systems, generative deep learning, and quantum computing.
 </div>
 
 <hr>
