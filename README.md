@@ -13,7 +13,7 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 -->
 
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnWJMovZGvyzk03PimzCaICA3g1nkbQMmuPVZ1cXcDO-qQur2919Qowg_4UZeSj-GJk7zly9G6ub-dpXM52D8ZyxALBTvPyNS-1qePaNjackCtBSLnoDVt7QtxTD6cBE09DoiiU023QD_rfwLd52Nqq6rPqC7qgJQZLreU85eGXE-F2J9qbSXFKnDB0e8/w1684-h1069-p-k-no-nu/1710450863143.jpeg">
+<img src="https://github.com/laredo02/laredo02/blob/main/1710450863143.jpeg">
 </p>
 
 <!--
