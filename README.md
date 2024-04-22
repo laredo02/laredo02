@@ -42,18 +42,18 @@ Computer Engineering student at Universidad Politécnica de Madrid, passionate a
 <hr>
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=laredo02&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
+   <a href="https://github.com/laredo02?tab=repositories"><img src="https://streak-stats.demolab.com?user=laredo02&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"></a>
   <!--<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">-->
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL">
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+  <a href="https://www.opengl.org/"><img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL"></a>
   <!--<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">-->
-  <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit">
+  <a href="https://www.ibm.com/quantum/qiskit"><img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit"></a>
 </p>
 
 <p align="center">
