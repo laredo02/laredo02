@@ -6,7 +6,7 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 -->
 
 
-<h1 align="center">👋 Hi there, I'm Miguel Laredo 🏊 🚴 🏃</h1>
+<h1 align="center">👋 Hi there, I'm Miguel Laredo</h1>
 
 <!--
 <hr>
@@ -21,7 +21,7 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 -->
 
 <div align="justify">
-Computer Engineering student at Universidad Politécnica de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science, including: compilers, computer graphics, operating systems, generative deep learning, and quantum computing.
+Formal Methods in Computer Science student at Universidad Complutense de Madrid, passionate about Mathematics and Sports enthusiast, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science, including: compilers, computer graphics, operating systems, generative deep learning, and quantum computing.
 </div>
 
 <hr>
