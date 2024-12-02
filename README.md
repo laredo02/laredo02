@@ -23,7 +23,7 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 
 <div align="justify">
 <b>
-Formal Methods in Computer Science student at Universidad Complutense de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in several areas of computer science, including: compilers, computer graphics, formal methods, generative deep learning, and quantum computing.
+Formal Methods in Computer Science student at Universidad Complutense de Madrid, passionate about Mathematics and Sports enthusiast. I have interest in: compilers, computer graphics, formal methods, generative deep learning, and quantum computing.
 </b>
 </div>
 
