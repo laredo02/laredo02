@@ -31,13 +31,7 @@ Formal Methods in Computer Science student at Universidad Complutense de Madrid,
   <a href="https://www.haskell.org/"> <img alt="Haskell" width=150 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=haskell&logoColor=%235e5086&color=rgba(0%2C%200%2C%200%2C%200)"></a>
   <!--<a href="https://www.iso.org/standard/74528.html"><img alt="C" width=150 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=c&logoColor=%23A8B9CC&color=rgba(0%2C%200%2C%200%2C%200)"></a>-->
   <a href="https://www.python.org/"><img alt="Python" width=150 height=auto alt="Static Badge" src="https://img.shields.io/badge/_-_?style=flat-square&logo=python&logoColor=%233776AB&color=rgba(0%2C%200%2C%200%2C%200)"></a>
-  <a href="https://git-scm.com/"><img alt="Git" width=150 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=git&logoColor=%23F05032&color=rgba(0%2C%200%2C%200%2C%200)"></a>
-  <!--
-  <a href="https://isocpp.org/"> <img width="90" height="auto" src="https://i.imgur.com/Ao2P8iG.png" alt="C++"> </a>
-  <a href="https://www.iso.org/standard/74528.html"> <img width="90" height="auto" src="https://i.imgur.com/zINUxVf.png" alt="C">
-  <a href="https://www.python.org/"> <img width="100" height="auto" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" alt="Python">
-  <a href="https://git-scm.com/"> <img width="100" height="auto" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
-  -->
+  <!--<a href="https://git-scm.com/"><img alt="Git" width=150 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=git&logoColor=%23F05032&color=rgba(0%2C%200%2C%200%2C%200)"></a>-->
 </p>
 
 <hr>
