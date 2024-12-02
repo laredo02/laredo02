@@ -27,7 +27,7 @@ Formal Methods in Computer Science student at Universidad Complutense de Madrid,
 <hr>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Haskell-Functional_Programming-purple?logo=haskell" alt="Haskell Logo Badge">
+  <a href="https://www.haskell.org/"> <img alt="Haskell" width=150 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=haskell&logoColor=%235e5086&color=rgba(0%2C%200%2C%200%2C%200)"></a>
   <a href="https://isocpp.org/"><img alt="C++" width=150 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=cplusplus&logoColor=%2300599C&color=rgba(0%2C%200%2C%200%2C%200)"></a>
   <a href="https://www.iso.org/standard/74528.html"><img alt="C" width=150 height=auto src="https://img.shields.io/badge/_-_?style=flat-square&logo=c&logoColor=%23A8B9CC&color=rgba(0%2C%200%2C%200%2C%200)"></a>
   <a href="https://www.python.org/"><img alt="Python" width=150 height=auto alt="Static Badge" src="https://img.shields.io/badge/_-_?style=flat-square&logo=python&logoColor=%233776AB&color=rgba(0%2C%200%2C%200%2C%200)"></a>
